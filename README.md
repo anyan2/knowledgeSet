@@ -1,0 +1,4 @@
+下好之后
+在根目录npm install（或者问ai怎么不污染环境的情况下install好nodejs环境）
+再进入前端和后端install一下
+然后在根目录npm start
